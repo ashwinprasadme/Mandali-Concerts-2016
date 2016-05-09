@@ -1,2 +1,22 @@
 # Mandali-Concerts-2016
-Mandali Concerts 2016, smart app lists a comprehensive index of events which includes a series of classical music concerts by prominent artists across the country , performances by budding artists , spiritual discourses , special invocations , prayers and offerings to Lord Rama .
+
+PlayStore Link
+https://play.google.com/store/apps/details?id=com.ionicframework.mandali2016&hl=en
+
++ ionic framework
++ AngularJS MVVM with Python backend serving JSON
++ Cordova Android Build
++ JavaScript - AngularJS
+
+Mandali Concerts 2016, smart app lists a comprehensive index of events which includes a series of classical music concerts by prominent artists across the country , performances by budding artists , spiritual discourses , special invocations , prayers and offerings to Lord Rama.
+
+Features
+
+- Schedule of all the events that are held from April 8th 2016 to May 8th 2016
+- Option to mark favourite concerts
+- Share events to WhatsApp , Facebook & Twitter. Spread awareness about the events
+- Search from the list and favourite events
+- An oppotunity to contribute to a good purpose via Fund Mandali Corpus Fund Campaign
+
+
+

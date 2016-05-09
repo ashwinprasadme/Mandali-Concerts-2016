@@ -1,0 +1,4 @@
+sudo jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore Mandali_2016.keystore android-release-unsigned.apk Mandali_2016
+
+sudo ./zipalign -v 4 android-release-unsigned.apk Mandali_Concerts_2016.apk
+

@@ -1,0 +1,364 @@
+[{
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "08/04/2016",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E2",
+  "date": "April 9 | Monday",
+  "date_compare" : "09/04/2016",
+  "title": "Sri Sanjay Subramanyan",
+  "artist": "- S.VARADARAJAN (VIOLIN) | NANJIL ARUL (MRUDANGA) | S.VENKATRAMANAN",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580039-img-210f760a89db30aa72ca258a3483cc7f-sanjay.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580039-img-210f760a89db30aa72ca258a3483cc7f-sanjay.jpg"
+}, {
+  "id" : "E3",
+  "date": "April 10 | Tuesday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E4",
+  "date": "April 11 | Wednesday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E5",
+  "date": "April 12 | Thursday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 13 | Friday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Saturday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E9",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}, {
+  "id" : "E1",
+  "date": "April 8 | Sunday",
+  "date_compare" : "MM/DD/YYYY",
+  "title": "Bombay Jayashree Ramanath",
+  "artist": "Embar S Kannan | J Vaidyanath | B S Purushotham",
+  "image_small": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg",
+  "image_large": "http://ramanavami.org/assets/res/schedule/31-12-20151451580025-img-85fc37b18c57097425b52fc7afbb6969-bombay%20jayashree.jpg"
+}
+
+]
+
+
+SMT BOMBAY JAYASHREE RAMANATH & PARTY
+SRI SANJAY SUBRAMANYAN (VOCAL) - S.VARADARAJAN (VIOLIN) - NANJIL ARUL (MRUDANGA) - S.VENKATRAMANAN (
+
+padmabhushana dr.k.j.yesudas - mahadeva sarmas.r - tiruvarur bhakthavatsalam - t.radhakrishnan
+sri vignesh iswar - apoorva krishna - s.ashok   krishna prasad
+sri sandeep narayan - parur m s ananthakrishnan - k.u.jayachandra rao - srishaila
+mysore n kartik & master mysore m sumanth and party
+k.v.krishana prasad - parur m s ananthakrishnan - tumkur ravishankar - b.r.ravi kumar
+smt saashwathi prabhu and party
+sriranjani santhanagopalan - k.j.dilip -  k.u.jayachandrarao - srishaila
+hyderabad brothers (raghavachary & seshachary) - mysore nagaraj  - hari kumar -  alathur t  rajagane
+priya sisters (shanmugapriya & haripriya) & party
+
+special pooja to lord rama on account of sree ramanavami
+
+rama gana kalacharya dr.l.subrarmaniam & ambi subrarmaniam (violin-duet) and party
+vidwan t m krishna & party
+ustad rais balekhan & ustad hafiz balekhan (sitar duet) & party
+
+madurai t n s krishna - h k venkatram - thiruvayur bhaktavatsalam - guruprasanna
+trichur brothers (srikrishna mohan & ramkumar mohan) -  mullaivasal g.chandramouli - trichur r.mohan
+
+Vidyabhushana - Embar S Kannan - Dr.Umayalpuram K Sivaraman - Giridhar Udupa
+
+Vidwan Vijay Siva N - Charumathi Raghuraman - N.Manoj Siva - S.Krishna
+Pravin Godkhindi (Bansuri) & Kumaresh Rajagopalan (violin) - V.Praveen - Raveendra Yavagal
+
+
+Malladi Brothers (Sriram & Ravi) - Embar S.Kannan - K.V.Prasad - Giridhar Udupa
+
+Special Karnatic Jugalbandhi Concert by: Dr.Mysore Manjunath & Mandolin U Rajesh  - Dr.T.Bhaktavat
+
+Veena venu & Vidwan H K Venkatram, Ashwin Anand & G Ravikiran & party
+
+Smt Anuradha Madhusudhan (Veena) and Sri Tyagarajan
+
+Vidwan Saketharaman - Dr.Mysore Manjunath - V.Praveen - Giridhar Udupa
+Vidwan Ramakrishnan Murthy - B.U.Ganesh Prasad - V.Praveen -  Guruprasanna
+Flute Sidwan Shashank S - B.U.Ganesh Prasad - Parupalli Phalgun - Guruprasanna
+Special Violin Duet Concert by: Mysore Nagaraj & Dr.Mysore Manjunath - Dr.Umayalpuram K Sivaraman
+
+S.V.Narayanaswamy Rao Memorial National Award Presented to Dr Kadri Gopalnath
+Kadri Gopalnath - Vittal Ramamurthy - Hari Kumar - Rajendra Nakod - B.Rajashekar
+
+Sree rama pattabhishekam & valmiki ramayana mangal of parama poojya h.h. 1008 sri sri satyatma theer
+
+Smt Jayanthi Kumaresh - Akkarai Subhalakshmi - Arjun Kumar - Trichy Krishna
+Bangalore S.Shankar - Charulatha Ramanujam - K.U.Jayachandra Rao - B.R.Ravikumar
+M.S.sheela - Nalina Mohan - H.S.Sudhindra - B.Rajashekar
+Sowmya.s - Charulatha Ramanujam - H.S.Sudhindra - Giridhar Udupa
+P.Unnikrishnan - Embar S.Kannan - Arjun Kumar - Amruth.N
+Rama Gana Kalacharya Award to Smt Aruna Sairam
+Special Concert by Smt. Aruna Sairam & Party
+Vishaka Hari & Party (Discourse on : Ramabhakthi Samrajya)
+Vasanthotsava - Special Cradle Seva to Lord Hanuman
